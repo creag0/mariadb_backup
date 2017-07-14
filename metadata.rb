@@ -1,6 +1,6 @@
 name             'mariadb_backup'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'iserv'
+maintainer_email 'wcreager7@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures mariadb_backup'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
