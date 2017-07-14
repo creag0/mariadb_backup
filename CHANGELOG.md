@@ -3,7 +3,7 @@
 This file is used to list changes made in each version of the mariadb_backup cookbook.
 
 ## 0.1.0
-- [your_name] - Initial release of mariadb_backup
+- [Wesley Creager] - Initial release of mariadb_backup
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
