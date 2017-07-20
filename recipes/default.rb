@@ -2,9 +2,8 @@
 # Cookbook Name:: mariadb_backup
 # Recipe:: default
 #
-# Copyright 2017, YOUR_COMPANY_NAME
+# Copyright 2017, Wesley Creager
 #
-# All rights reserved - Do Not Redistribute
 #
 
 # Create database backup file

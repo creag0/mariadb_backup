@@ -1,5 +1,5 @@
 name             'mariadb_backup'
-maintainer       'iserv'
+maintainer       'Wesley Creager'
 maintainer_email 'wcreager7@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures mariadb_backup'
